@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #1a202c;
+  color: #e2e8f0;
+}
+
+.nightly-gradient {
+  background: linear-gradient(to bottom, #2d3748, #1a202c);
+}
+
+/* Add any custom styles here */
